@@ -1,0 +1,10 @@
+# Downloaded data and trained models (recreate with src/featurize.py and src/train_models.py)
+data/
+models/
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.claude/
+.DS_Store
+Thumbs.db
