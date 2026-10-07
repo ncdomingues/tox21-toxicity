@@ -8,6 +8,8 @@ Can we tell whether a molecule is toxic just from its structure? This project bu
 
 **Plain-language summary:** [open the live dashboard](https://ncdomingues.github.io/tox21-toxicity/toxicity-at-a-glance.html) ([source](toxicity-at-a-glance.html)), a one-page overview for non-technical readers in English and Portuguese.
 
+**More projects:** [Why clinical trials stop early](https://github.com/ncdomingues/clinical-trial-termination) · [Portuguese education data](https://github.com/ncdomingues/portuguese-education-data)
+
 ## Key findings
 1. **Random splits flatter the model.** Under a *scaffold split*, where test molecules have ring systems never seen in training, mean ROC-AUC is **0.79**, compared with **0.83** under a random split. The scaffold split is the honest estimate for new chemistry.
 

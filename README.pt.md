@@ -10,6 +10,8 @@ Conseguimos saber se uma molécula é tóxica só pela sua estrutura? Este proje
 
 **Resumo em linguagem simples:** [abre o dashboard online](https://ncdomingues.github.io/tox21-toxicity/toxicity-at-a-glance.html) ([código](toxicity-at-a-glance.html)), uma página de síntese para quem não é técnico, em inglês e português.
 
+**Outros projetos:** [Porque param os ensaios clínicos](https://github.com/ncdomingues/clinical-trial-termination) · [Dados da educação em Portugal](https://github.com/ncdomingues/portuguese-education-data)
+
 ## Principais resultados
 1. **Uma divisão aleatória dos dados dá uma imagem demasiado otimista.** Com uma *divisão por scaffold*, em que as moléculas de teste têm sistemas de anéis que o modelo nunca viu, o ROC-AUC médio é **0,79**, contra **0,83** com uma divisão aleatória. A divisão por scaffold é a estimativa honesta para química nova.
 
